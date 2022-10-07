@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Верю ? Не верю</string>
+    <string name="Yes">Верю</string>
+    <string name="No">Не верю</string>
+    <string name="Question">Вопрос</string>
+    <string name="start">Начать</string>
+    <string name="nextQuestions">Следующий вопрос</string>
+    <string name="startAgain">Начать заново</string>
+    <string name="showResult">Ваш результат:</string>
+    <string name="conditions">Вам предлагается вопрос и два ответа на выбор - верно утверждение или нет.\n
+        Счет верных и не верных ответов показывается внизу экрана </string>
+</resources>
